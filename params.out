@@ -1,0 +1,20 @@
+# This file contains information about inputs as read by the program
+
+ Population size = 20
+ Number of generations = 10
+ Number of objective functions = 2
+ Instance route = ..\..\data\Modelo_diverso.dat
+ Number of nodes = 46
+ Number of customers = 44
+ Number of periods = 10
+ Number of vehicles = 2
+ Number of trips = 10
+ Number of trip slots = 20
+ Origin = 1
+ Dummy depot = 60
+ Vehicle capacity = 3.600000e+03
+ Probability of permutation crossover = 9.000000e-01
+ Probability of chromosome mutation = 2.000000e-01
+ Base seed for random number generator = 1.230000e-01
+ Multi-seed runs = 10
+ Stored feasible rank-1 candidates = 18
